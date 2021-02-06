@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/landing-cakes/static/css/main.9dc06029.chunk.css",
-    "main.js": "/landing-cakes/static/js/main.0e452b0f.chunk.js",
-    "main.js.map": "/landing-cakes/static/js/main.0e452b0f.chunk.js.map",
+    "main.js": "/landing-cakes/static/js/main.fc8e9f79.chunk.js",
+    "main.js.map": "/landing-cakes/static/js/main.fc8e9f79.chunk.js.map",
     "runtime-main.js": "/landing-cakes/static/js/runtime-main.e672b51c.js",
     "runtime-main.js.map": "/landing-cakes/static/js/runtime-main.e672b51c.js.map",
     "static/js/2.6105aafc.chunk.js": "/landing-cakes/static/js/2.6105aafc.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/2.6105aafc.chunk.js.LICENSE.txt": "/landing-cakes/static/js/2.6105aafc.chunk.js.LICENSE.txt",
     "static/media/banner1.ad2ddad7.webp": "/landing-cakes/static/media/banner1.ad2ddad7.webp",
     "static/media/banner2.0feae805.webp": "/landing-cakes/static/media/banner2.0feae805.webp",
-    "static/media/banner3.7f5cb3dc.webp": "/landing-cakes/static/media/banner3.7f5cb3dc.webp",
+    "static/media/banner3.bb27a399.webp": "/landing-cakes/static/media/banner3.bb27a399.webp",
     "static/media/banner4.cdf7122c.webp": "/landing-cakes/static/media/banner4.cdf7122c.webp",
     "static/media/e1c78c_d5f27255657d452cb413ba28ef3bb976_mv2.8171f964.webp": "/landing-cakes/static/media/e1c78c_d5f27255657d452cb413ba28ef3bb976_mv2.8171f964.webp",
     "static/media/Home.module.scss": "/landing-cakes/static/media/grid.f885e306.webp"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e672b51c.js",
     "static/js/2.6105aafc.chunk.js",
     "static/css/main.9dc06029.chunk.css",
-    "static/js/main.0e452b0f.chunk.js"
+    "static/js/main.fc8e9f79.chunk.js"
   ]
 }
